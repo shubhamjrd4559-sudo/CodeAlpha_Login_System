@@ -53,6 +53,34 @@ CodeAlpha_Login_System/
     ./login
     
 ---
+---
+
+## 📸 Sample Output
+---
+
+---
+
+## 📸 Sample Output
+```text
+===== MENU =====
+1. Register
+2. Login
+3. Exit
+Enter your choice: 1
+
+Enter username: shubham
+Enter password: 1234
+Registration successful!
+
+===== MENU =====
+Enter your choice: 2
+Enter username: shubham
+Enter password: 1234
+Login successful!
+```
+
+
+---
 🧪 Sample Functionality
 
 Register a new user with username and password
