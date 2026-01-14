@@ -54,12 +54,12 @@ CodeAlpha_Login_System/
 ---
 ---
 
-## 📸 Sample Output
----
+📸![Program Output](terminal_output.png)
+
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 ```text
 ===== MENU =====
 1. Register
