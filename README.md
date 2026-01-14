@@ -47,11 +47,10 @@ CodeAlpha_Login_System/
 2. Open the project in any C++ compiler  
 3. Compile the code:
    ```bash
-   g++ main.cpp -o login
+   g++ login_registration.cpp -o login
 4. Run the program:
     ```bash
     ./login
-    
 ---
 ---
 
